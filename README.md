@@ -4,14 +4,18 @@ ________________________________________________________________________________
 AUTHORS:  Team-1
 
 Vishwakumar Dhaneshbhai Doshi (1213322381)
+
 Nisarg Trivedi (1213314867)
 ________________________________________________________________________________________________________________________________________
 
 INCLUDED IN REPOSITORY:
 
 -> RGBLed.c (Program Source code)
+
 -> led.h (library)
+
 -> Makefile (makefile for the sourcecode)
+
 -> README
 
 ________________________________________________________________________________________________________________________________________
@@ -24,11 +28,17 @@ ________________________________________________________________________________
 SYSTEM REQUIREMENTS:
 
 -> Linux machine for host. Compilation must be done on this machine and not on the board.
+
 -> LINUX KERNEL : Minimum version of 2.6.19 is expected.
+
 -> SDK: iot-devkit-glibc-x86_64-image-full-i586-toolchain-1.7.2
+
 -> GCC:  i586-poky-linux-gcc
+
 -> Intel Galileo Gen2 board
+
 -> USB mouse
+
 -> Bread-board,wires and Red-Green-Blue LEDs.
 ________________________________________________________________________________________________________________________________________
 
@@ -82,6 +92,7 @@ EXECUTION:
 Range of values to be entered:
 
 -> PWM - 0-100
+
 -> LED pin numbers - 0-13
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 
